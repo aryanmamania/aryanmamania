@@ -1,3 +1,4 @@
+![logo](https://github.com/aryanmamania/aryanmamania/blob/main/logo2.png)
 <h1 align="center">Hi 👋, I'm ARYAN MAMANIA</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
