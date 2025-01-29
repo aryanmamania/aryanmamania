@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aryanmamania?tab=repositories](https://github.com/aryanmamania?tab=repositories)
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **MERN stack and DevOps**
 
 - 📫 How to reach me **aryanmamania17@gmail.com**
 
